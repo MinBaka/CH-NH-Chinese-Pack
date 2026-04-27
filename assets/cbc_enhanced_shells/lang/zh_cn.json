@@ -1,0 +1,93 @@
+{
+  "itemGroup.cbc_enhanced_shells": "机械动力：大炮 强化炮弹",
+
+  "block.cbc_enhanced_shells.he_shell_mk1": "高爆弹 I型",
+  "block.cbc_enhanced_shells.he_shell_mk2": "高爆弹 II型",
+  "block.cbc_enhanced_shells.he_shell_mk3": "高爆弹 III型",
+  "block.cbc_enhanced_shells.he_shell_mk4": "高爆弹 IV型",
+  "block.cbc_enhanced_shells.he_shell_mk5": "高爆弹 V型",
+
+  "block.cbc_enhanced_shells.ap_shell_mk1": "穿甲弹 I型",
+  "block.cbc_enhanced_shells.ap_shell_mk2": "穿甲弹 II型",
+  "block.cbc_enhanced_shells.ap_shell_mk3": "穿甲弹 III型",
+  "block.cbc_enhanced_shells.ap_shell_mk4": "穿甲弹 IV型",
+  "block.cbc_enhanced_shells.ap_shell_mk5": "穿甲弹 V型",
+
+  "block.cbc_enhanced_shells.solid_shot_mk1": "实心弹 I型",
+  "block.cbc_enhanced_shells.solid_shot_mk2": "实心弹 II型",
+  "block.cbc_enhanced_shells.solid_shot_mk3": "实心弹 III型",
+  "block.cbc_enhanced_shells.solid_shot_mk4": "实心弹 IV型",
+  "block.cbc_enhanced_shells.solid_shot_mk5": "实心弹 V型",
+
+  "block.cbc_enhanced_shells.ap_shot_mk1": "穿甲实心弹 I型",
+  "block.cbc_enhanced_shells.ap_shot_mk2": "穿甲实心弹 II型",
+  "block.cbc_enhanced_shells.ap_shot_mk3": "穿甲实心弹 III型",
+  "block.cbc_enhanced_shells.ap_shot_mk4": "穿甲实心弹 IV型",
+  "block.cbc_enhanced_shells.ap_shot_mk5": "穿甲实心弹 V型",
+
+  "block.cbc_enhanced_shells.shrapnel_shell_mk1": "榴霰弹 I型",
+  "block.cbc_enhanced_shells.shrapnel_shell_mk2": "榴霰弹 II型",
+  "block.cbc_enhanced_shells.shrapnel_shell_mk3": "榴霰弹 III型",
+  "block.cbc_enhanced_shells.shrapnel_shell_mk4": "榴霰弹 IV型",
+  "block.cbc_enhanced_shells.shrapnel_shell_mk5": "榴霰弹 V型",
+
+  "block.cbc_enhanced_shells.smoke_shell_mk1": "烟雾弹 I型",
+  "block.cbc_enhanced_shells.smoke_shell_mk2": "烟雾弹 II型",
+  "block.cbc_enhanced_shells.smoke_shell_mk3": "烟雾弹 III型",
+  "block.cbc_enhanced_shells.smoke_shell_mk4": "烟雾弹 IV型",
+  "block.cbc_enhanced_shells.smoke_shell_mk5": "烟雾弹 V型",
+
+  "block.cbc_enhanced_shells.drop_mortar_shell_mk1": "投掷迫击炮弹 I型",
+  "block.cbc_enhanced_shells.drop_mortar_shell_mk2": "投掷迫击炮弹 II型",
+  "block.cbc_enhanced_shells.drop_mortar_shell_mk3": "投掷迫击炮弹 III型",
+  "block.cbc_enhanced_shells.drop_mortar_shell_mk4": "投掷迫击炮弹 IV型",
+  "block.cbc_enhanced_shells.drop_mortar_shell_mk5": "投掷迫击炮弹 V型",
+
+  "block.cbc_enhanced_shells.bag_of_grapeshot_mk1": "葡萄弹袋 I型",
+  "block.cbc_enhanced_shells.bag_of_grapeshot_mk2": "葡萄弹袋 II型",
+  "block.cbc_enhanced_shells.bag_of_grapeshot_mk3": "葡萄弹袋 III型",
+  "block.cbc_enhanced_shells.bag_of_grapeshot_mk4": "葡萄弹袋 IV型",
+  "block.cbc_enhanced_shells.bag_of_grapeshot_mk5": "葡萄弹袋 V型",
+
+  "block.cbc_enhanced_shells.mortar_stone_mk1": "迫击炮石弹 I型",
+  "block.cbc_enhanced_shells.mortar_stone_mk2": "迫击炮石弹 II型",
+  "block.cbc_enhanced_shells.mortar_stone_mk3": "迫击炮石弹 III型",
+  "block.cbc_enhanced_shells.mortar_stone_mk4": "迫击炮石弹 IV型",
+  "block.cbc_enhanced_shells.mortar_stone_mk5": "迫击炮石弹 V型",
+
+  "block.cbc_enhanced_shells.shell_holder_mk1": "炮弹架 I型",
+  "block.cbc_enhanced_shells.shell_holder_mk2": "炮弹架 II型",
+  "block.cbc_enhanced_shells.shell_holder_mk3": "炮弹架 III型",
+  "block.cbc_enhanced_shells.shell_holder_mk4": "炮弹架 IV型",
+  "block.cbc_enhanced_shells.shell_holder_mk5": "炮弹架 V型",
+
+  "block.cbc_enhanced_shells.nuke_shell": "核能炮弹 I型",
+  "block.cbc_enhanced_shells.nuke_shell_mk2": "核能炮弹 II型",
+
+  "block.cbc_enhanced_shells.h_bomb_shell": "氢弹炮弹",
+  "block.cbc_enhanced_shells.h_bomb_mini_shell": "微型氢弹炮弹",
+
+  "block.cbc_enhanced_shells.powder_charge_mk1": "火药包 I型",
+  "block.cbc_enhanced_shells.powder_charge_mk2": "火药包 II型",
+  "block.cbc_enhanced_shells.powder_charge_mk3": "火药包 III型",
+  "block.cbc_enhanced_shells.powder_charge_mk4": "火药包 IV型",
+  "block.cbc_enhanced_shells.powder_charge_mk5": "火药包 V型",
+
+  "tooltip.cbc_enhanced_shells.hold_shift": "按住 [Shift] 显示详情",
+  "tooltip.cbc_enhanced_shells.damage": "伤害",
+  "tooltip.cbc_enhanced_shells.explosive_power": "爆炸威力",
+  "tooltip.cbc_enhanced_shells.knockback": "击退",
+  "tooltip.cbc_enhanced_shells.penetration": "穿透力",
+  "tooltip.cbc_enhanced_shells.toughness": "韧性",
+  "tooltip.cbc_enhanced_shells.shrapnel_count": "破片数量",
+  "tooltip.cbc_enhanced_shells.smoke_scale": "烟雾范围",
+  "tooltip.cbc_enhanced_shells.smoke_duration": "烟雾持续时间",
+  "tooltip.cbc_enhanced_shells.mortar_power": "迫击炮威力",
+  "tooltip.cbc_enhanced_shells.entity_explosive_power": "实体爆炸威力",
+  "tooltip.cbc_enhanced_shells.block_explosive_power": "方块爆炸威力",
+  "tooltip.cbc_enhanced_shells.grapeshot_count": "葡萄弹数量",
+  "tooltip.cbc_enhanced_shells.grapeshot_spread": "葡萄弹扩散",
+  "tooltip.cbc_enhanced_shells.max_charges": "最大装药量",
+  "tooltip.cbc_enhanced_shells.capacity": "容量",
+  "tooltip.cbc_enhanced_shells.empty": "空"
+}
