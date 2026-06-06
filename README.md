@@ -1,9 +1,5 @@
 # CH:NH (Cogwheel Heavyworks: New Horizons) Localization Pack
-<<<<<<< HEAD
 # 机械动力：新视界 简体中文汉化包
-=======
-# 机械动力：新地平线 简体中文汉化包
->>>>>>> 9aa09ebdf360b8c5a5df1c7cc4db5f61b784d059
 
 这是一个为 Minecraft 模组包 "Cogwheel Heavyworks: New Horizons" 制作的简体中文汉化资源包。
 
@@ -13,11 +9,6 @@
 - **适用版本**: 请参考 `pack.mcmeta` 中指定的格式版本。
 
 本资源包对相关的模组词条、配置文件及其他资源进行了深度的中文化工作，以期为中文玩家带来更好的游戏体验。
-
-## ⚠️ AI 训练声明 (AI Training Statement)
-
-**作者个人强烈反对将本资源包中原创的汉化文本及相关文件用于任何形式的商业人工智能模型（AI Models）的训练。**  
-*(此附加声明属于作者的个人诉求，不作为具有法律约束力的许可证条款，但请尊重译者的劳动成果。)*
 
 ## 📄 许可证与版权说明 (License)
 
@@ -36,6 +27,9 @@
 - `assets/offroad/`
 - `assets/veil/`
 - `assets/catnip/`
+
+**⚠️ 第三方作者 (ForgeStove) 附加声明：**
+ForgeStove 强烈反对将其原创的汉化文本及相关文件用于任何形式的商业人工智能模型（AI Models）的训练。此附加声明属于其个人诉求，请尊重该译者的劳动成果。
 
 **ForgeStove 的 MIT 许可证原文：**
 > Copyright (c) 2025 ForgeStove
