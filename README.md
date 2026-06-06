@@ -1,5 +1,9 @@
 # CH:NH (Cogwheel Heavyworks: New Horizons) Localization Pack
+<<<<<<< HEAD
 # 机械动力：新视界 简体中文汉化包
+=======
+# 机械动力：新地平线 简体中文汉化包
+>>>>>>> 9aa09ebdf360b8c5a5df1c7cc4db5f61b784d059
 
 这是一个为 Minecraft 模组包 "Cogwheel Heavyworks: New Horizons" 制作的简体中文汉化资源包。
 
